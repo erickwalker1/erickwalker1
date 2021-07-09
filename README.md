@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @erickwalker1
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :v:	 Hey wassup, I’m Erick
+-  :computer:	 Frontend software enginner
+-  Enthusiast --> Ethereum | Blockchain | DeFi 
+-  Currently learning & experimenting with React Native & Expo | Blockchain Development
+-  :handshake: I’m open to collaborating on anything front-end | UI
+-  Reach me through email --> walkererick1@gmail.com
 
 <!---
 erickwalker1/erickwalker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
