@@ -1,7 +1,7 @@
 - :v:	 Hey wassup, I’m Erick
--  :computer:	 Frontend software enginner
+-  :computer:	 Frontend Software Enginner
 -  Enthusiast --> Ethereum | Blockchain | DeFi 
--  Currently learning & experimenting with React Native & Expo | Blockchain Development
+-  Currently learning Blockchain Development
 -  :handshake: I’m open to collaborating on anything front-end | UI
 -  Reach me through email --> walkererick1@gmail.com
 
